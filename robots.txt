@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pcmaticacknowledge.github.io/sitemap.xml
